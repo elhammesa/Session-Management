@@ -4,6 +4,7 @@ using Infrastructure.Context.command;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Persistance.Migrations
 {
     [DbContext(typeof(CommandDataContext))]
-    partial class CommandDataContextModelSnapshot : ModelSnapshot
+    [Migration("20250204054601_addEntity")]
+    partial class addEntity
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -21,6 +23,44 @@ namespace Persistance.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
+
+            modelBuilder.Entity("Domain.Entity.FreeTime", b =>
+                {
+                    b.Property<int>("FreeTimeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("FreeTimeId"), 1L, 1);
+
+                    b.Property<bool>("Activated")
+                        .HasColumnType("bit");
+
+                    b.Property<DateTime>("CreateDate")
+                        .HasColumnType("Datetime");
+
+                    b.Property<bool>("Deleted")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("bit")
+                        .HasDefaultValue(false);
+
+                    b.Property<DateTime>("EndTime")
+                        .HasColumnType("datetime2");
+
+                    b.Property<DateTime?>("ModifiedDate")
+                        .HasColumnType("Datetime");
+
+                    b.Property<int>("PersonId")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime>("StartTime")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("FreeTimeId");
+
+                    b.HasIndex("PersonId");
+
+                    b.ToTable("FreeTime");
+                });
 
             modelBuilder.Entity("Domain.Entity.Person", b =>
                 {
@@ -266,6 +306,17 @@ namespace Persistance.Migrations
                     b.ToTable("SessionReport");
                 });
 
+            modelBuilder.Entity("Domain.Entity.FreeTime", b =>
+                {
+                    b.HasOne("Domain.Entity.Person", "Person")
+                        .WithMany("FreeTimes")
+                        .HasForeignKey("PersonId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Person");
+                });
+
             modelBuilder.Entity("Domain.Entity.Reminder", b =>
                 {
                     b.HasOne("Domain.Entity.Session", "Session")
@@ -332,6 +383,8 @@ namespace Persistance.Migrations
 
             modelBuilder.Entity("Domain.Entity.Person", b =>
                 {
+                    b.Navigation("FreeTimes");
+
                     b.Navigation("SessionPersons");
                 });
 

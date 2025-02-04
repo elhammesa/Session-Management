@@ -53,6 +53,23 @@ namespace Session_Management.Controllers
 
 			return result;
 		}
-		
-	}
+
+        /// <summary>
+        /// ثبت خودکار جلسه با زمان پیشنهادی
+        /// </summary>
+        /// <param name="SessionscheduleDto"></param>
+        /// <param name="cancellationToken"></param>
+        /// <returns></returns>
+        [HttpPost(PersonProperties.ScheduleSession)]
+
+        public async Task<SessionscheduleDto> ScheduleSession(SessionscheduleDto sessionscheduleDto, CancellationToken cancellationToken = default)
+        {
+
+
+            var result = await Mediator.Send(new ScheduleSessionCommand() { SessionscheduleDto = sessionscheduleDto }, cancellationToken);
+
+            return result;
+        }
+
+    }
 }

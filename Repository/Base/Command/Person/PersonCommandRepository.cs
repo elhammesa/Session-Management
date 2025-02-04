@@ -82,7 +82,7 @@ public class PersonCommandRepository : CommandBaseRepository<Person>, IPersonCom
 		// تبدیل طول جلسه به TimeSpan
 		var meetingDuration = TimeSpan.FromMinutes(sessionscheduleDto.DurationInMinutes);
 
-		var personFreeTimes = await _freeTimeQueryRepository.GetAllAsync();
+		var personFreeTimes = await _freeTimeQueryRepository.FindByValuesAsync(x=> sessionscheduleDto.PersonIDs.Contains(x.PersonId));
 		// ایجاد لیست زمان‌های خالی برای هر کاربر
 		var freeTimesList = new List<List<FreeTime>>();
 
@@ -99,8 +99,16 @@ public class PersonCommandRepository : CommandBaseRepository<Person>, IPersonCom
 		// پیدا کردن زمان‌های خالی مشترک بین همه کاربران
 		var commonFreeTimes = FindCommonFreeTimes(freeTimesList, meetingDuration);
 
-		// اولین زمان مناسب  
-		var startTimeSchedule = commonFreeTimes.FirstOrDefault().StartTime;
+        var startTimeSchedule=DateTime.Now;
+
+        if (commonFreeTimes.Any())
+			{
+             startTimeSchedule = commonFreeTimes.FirstOrDefault().StartTime;
+        }
+		
+
+        // اولین زمان مناسب  
+      
 		#endregion
 
 
@@ -131,18 +139,30 @@ public class PersonCommandRepository : CommandBaseRepository<Person>, IPersonCom
 		// بررسی زمان‌های خالی بین رویدادها
 		DateTime previousEnd = searchStart;
 
-		foreach (var eventItem in freeTimes)
+		//foreach (var eventItem in freeTimes)
+		//{
+		//	if (eventItem.StartTime > previousEnd)
+		//	{
+		//		freeTimes.Add(new FreeTime
+		//		{
+		//			StartTime = previousEnd,
+		//			EndTime = eventItem.StartTime
+		//		});
+		//	}
+		//	previousEnd = eventItem.EndTime > previousEnd ? eventItem.EndTime : previousEnd;
+		//}
+		for(int i=0; i<freeTimes.Count;i++)
 		{
-			if (eventItem.StartTime > previousEnd)
-			{
-				freeTimes.Add(new FreeTime
-				{
-					StartTime = previousEnd,
-					EndTime = eventItem.StartTime
-				});
-			}
-			previousEnd = eventItem.EndTime > previousEnd ? eventItem.EndTime : previousEnd;
-		}
+            if (freeTimes[0].StartTime > previousEnd)
+            {
+                freeTimes.Add(new FreeTime
+                {
+                    StartTime = previousEnd,
+                    EndTime = freeTimes[0].StartTime
+                });
+            }
+            previousEnd = freeTimes[0].EndTime > previousEnd ? freeTimes[0].EndTime : previousEnd;
+        }
 
 		// بررسی زمان خالی بعد از آخرین رویداد
 		if (previousEnd < searchEnd)
