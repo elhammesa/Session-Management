@@ -1,9 +1,3 @@
-C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.csproj.AssemblyReference.cache
-C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.AssemblyInfoInputs.cache
-C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.AssemblyInfo.cs
-C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.csproj.CoreCompileInputs.cache
-C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\appsettings.Development.json
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\appsettings.json
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Session Management.exe
@@ -78,6 +72,13 @@ C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debu
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Persistance.pdb
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Repository.pdb
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Services.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.csproj.AssemblyReference.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.AssemblyInfoInputs.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.AssemblyInfo.cs
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.csproj.CoreCompileInputs.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets\msbuild.Session Management.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Session Management.props
 C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Session Management.props

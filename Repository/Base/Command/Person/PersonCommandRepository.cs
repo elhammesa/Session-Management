@@ -117,6 +117,7 @@ public class PersonCommandRepository : CommandBaseRepository<Person>, IPersonCom
 
 		 var result =await _sessionCommandRepository.AddSession(sessionAddDto);
 		#endregion
+
 		return sessionscheduleDto;
 	}
 

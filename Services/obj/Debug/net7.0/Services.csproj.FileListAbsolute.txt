@@ -1,8 +1,3 @@
-C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
-C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
-C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
-C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
 C:\Users\moghavemi.e\source\repos\Session Management\Services\bin\Debug\net7.0\Services.deps.json
 C:\Users\moghavemi.e\source\repos\Session Management\Services\bin\Debug\net7.0\Services.dll
 C:\Users\moghavemi.e\source\repos\Session Management\Services\bin\Debug\net7.0\Services.pdb
@@ -16,6 +11,11 @@ C:\Users\moghavemi.e\source\repos\Session Management\Services\bin\Debug\net7.0\D
 C:\Users\moghavemi.e\source\repos\Session Management\Services\bin\Debug\net7.0\Persistance.pdb
 C:\Users\moghavemi.e\source\repos\Session Management\Services\bin\Debug\net7.0\Repository.pdb
 C:\Users\moghavemi.e\source\repos\Session Management\Services\bin\Debug\net7.0\Common.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
 C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
 C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\Services.dll
 C:\Users\moghavemi.e\source\repos\Session Management\Services\obj\Debug\net7.0\refint\Services.dll
