@@ -1,0 +1,94 @@
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.csproj.AssemblyReference.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.AssemblyInfoInputs.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.AssemblyInfo.cs
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.csproj.CoreCompileInputs.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\appsettings.json
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Session Management.exe
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Session Management.deps.json
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Session Management.runtimeconfig.json
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Session Management.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Session Management.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Humanizer.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\MediatR.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Application.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Common.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Domain.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Dtos.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Persistance.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Repository.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Services.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Application.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Dtos.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Common.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Domain.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Persistance.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Repository.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\bin\Debug\net7.0\Services.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets\msbuild.Session Management.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets\msbuild.build.Session Management.props
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Session Management.props
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Session Management.props
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\scopedcss\bundle\Session Management.styles.css
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.csproj.CopyComplete
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\refint\Session Management.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\Session Management.genruntimeconfig.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Session Management\obj\Debug\net7.0\ref\Session Management.dll

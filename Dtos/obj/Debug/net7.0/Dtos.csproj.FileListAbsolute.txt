@@ -1,0 +1,12 @@
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\bin\Debug\net7.0\Dtos.deps.json
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\bin\Debug\net7.0\Dtos.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\bin\Debug\net7.0\Dtos.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\Dtos.csproj.AssemblyReference.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\Dtos.AssemblyInfo.cs
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\Dtos.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\refint\Dtos.dll
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\Dtos.pdb
+C:\Users\moghavemi.e\source\repos\Session Management\Dtos\obj\Debug\net7.0\ref\Dtos.dll
